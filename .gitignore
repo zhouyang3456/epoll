@@ -1,3 +1,8 @@
+.vscode
+client
+queue_recv_test
+queue_send_test
+
 # Prerequisites
 *.d
 
